@@ -60,7 +60,7 @@
   }
   
   .hero {
-    background-image: url("./images/hero-bg.png");
+    background-image: url("images/hero-bg.png");
     background-repeat: no-repeat;
     background-position: center bottom;
     height: 650px;
@@ -145,7 +145,7 @@
     margin-bottom: 50px;
   }
   .hero .container{
-    background: url('./images/hero-bg.png') no-repeat;
+    background: url('images/hero-bg.png') no-repeat;
     background-size: contain;
     background-position: center bottom;
     height: 550px;
@@ -293,7 +293,7 @@
   }
   
   .hero {
-    background-image: url("./images/hero-bg.png");
+    background-image: url("images/hero-bg.png");
     background-repeat: no-repeat;
     background-position: center bottom;
     height: 650px;
@@ -378,7 +378,7 @@
     margin-bottom: 50px;
   }
   .hero .container{
-    background: url('./images/hero-bg.png') no-repeat;
+    background: url('images/hero-bg.png') no-repeat;
     background-size: contain;
     background-position: center bottom;
     height: 550px;
